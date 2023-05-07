@@ -1,0 +1,1 @@
+This is a learning project where I practiced creating a simple animation using HTML and CSS. The animation simulates a pencil writing a line on a paper. I used keyframe animations to create the pencil and line movement.
